@@ -1,0 +1,2 @@
+-cf picture.jpg -ef secret.txt
+-sf 0000013.jpg
